@@ -1,0 +1,41 @@
+.:
+total 24
+drwxr-xr-x 6 itshd itshd 4096 Oct  1 09:48 .
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:46 ..
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 archives,
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:48 ex00
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 projects
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 tools
+
+./archives,:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 .
+drwxr-xr-x 6 itshd itshd 4096 Oct  1 09:48 ..
+
+./ex00:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:48 .
+drwxr-xr-x 6 itshd itshd 4096 Oct  1 09:48 ..
+-rw-r--r-- 1 itshd itshd    0 Oct  1 09:48 tree_structure.txt
+
+./projects:
+total 12
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 .
+drwxr-xr-x 6 itshd itshd 4096 Oct  1 09:48 ..
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 web
+
+./projects/web:
+total 12
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 .
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 ..
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 frontend
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 .
+drwxr-xr-x 3 itshd itshd 4096 Oct  1 09:47 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  1 09:47 .
+drwxr-xr-x 6 itshd itshd 4096 Oct  1 09:48 ..
