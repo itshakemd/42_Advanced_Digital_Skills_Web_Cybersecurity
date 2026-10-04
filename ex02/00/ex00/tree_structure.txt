@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 4 itshd itshd 4096 Oct  4 08:58 ..
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 archives
+drwxr-xr-x 3 itshd itshd 4096 Oct  4 08:58 projects
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 5 itshd itshd 4096 Oct  4 08:58 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 5 itshd itshd 4096 Oct  4 08:58 ..
+drwxr-xr-x 4 itshd itshd 4096 Oct  4 08:58 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 3 itshd itshd 4096 Oct  4 08:58 ..
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 backend
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 4 itshd itshd 4096 Oct  4 08:58 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 4 itshd itshd 4096 Oct  4 08:58 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 itshd itshd 4096 Oct  4 08:58 .
+drwxr-xr-x 5 itshd itshd 4096 Oct  4 08:58 ..
