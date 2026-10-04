@@ -1,0 +1,4 @@
+git status
+git add ex03
+git commit -m "done2 -03"
+git push
