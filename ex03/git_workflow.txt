@@ -1,4 +1,5 @@
+# Edit README.md, then run:
 git status
-git add ex03
-git commit -m "done2 -03"
-git push
+git add README.md
+git commit -m "Document Project 00 and explain the Git workflow"
+git push origin main
