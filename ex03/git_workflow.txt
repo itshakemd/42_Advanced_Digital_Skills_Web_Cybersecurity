@@ -1,4 +1,3 @@
-# Edit README.md, then run:
 git status
 git add README.md
 git commit -m "Document Project 00 and explain the Git workflow"
